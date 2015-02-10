@@ -58,7 +58,6 @@
     [CCBReader load:@"Seal"];
     
     
-    
     return YES;
 }
 
